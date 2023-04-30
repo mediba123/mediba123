@@ -14,8 +14,3 @@
 
 - 📫 How to reach me **edwinabandoh2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/medibagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/mediba123/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medibagh" height="30" width="40" /></a>
-
-
