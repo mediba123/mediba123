@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there 👋 I am Janvi.</h1>
-<h3 align="center"> Outreachy intern - <b>Mozilla | Software developer 🚀</b></h3>
+<h1 align="center"> Hi there 👋 I am Madiba.</h1>
+<h3 align="center"><b>ALX cohort 14 - Female | Chef | Web developer | software engineer - in progress 🚀</b></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janvi01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="janvi01" /> </p>
-<p align="center"> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/janvi01" alt="janvi01" /> </p>
 
-<p align="center"> <a href="https://twitter.com/janvibajo01" target="blank"><img src="https://img.shields.io/twitter/follow/janvibajo01?logo=twitter&style=for-the-badge" alt="janvibajo01" /></a> </p>
+<p align="center"> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mediba123" alt="madiba123" /> </p>
+
+<p align="center"> <a href="https://twitter.com/medibagh" target="blank"><img src="https://img.shields.io/twitter/follow/janvibajo01?logo=twitter&style=for-the-badge" alt="medibagh" /></a> </p>
 
 - 🔭 I’m currently working on [Firefox Picture-in-Picture](https://www.mozilla.org/en-US/firefox/features/picture-in-picture/)
 
