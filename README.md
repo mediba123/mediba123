@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Madiba.</h1>
-<h3 align="center"><b>ALX cohort 14 - Female | Chef | Web developer | software engineer - in progress 🚀</b></h3>
+<h3 align="center"><b>ALX cohort 14 - Female | Chef | Web developer | Cloud Admin - in progress 🚀</b></h3>
 
 
 <p align="center"> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mediba123" alt="madiba123" /> </p>
